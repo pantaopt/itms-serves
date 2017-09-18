@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://192.168.2.94:10080/pack/ios/HelloWorld/raw/master/build/HelloWorld_09_14_1736.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://image.baidu.com/search/detail?ct=503316480&amp;z=0&amp;ipn=d&amp;word=test&amp;step_word=&amp;hs=0&amp;pn=0&amp;spn=0&amp;di=105227127390&amp;pi=0&amp;rn=1&amp;tn=baiduimagedetail&amp;is=0%2C0&amp;istype=2&amp;ie=utf-8&amp;oe=utf-8&amp;in=&amp;cl=2&amp;lm=-1&amp;st=-1&amp;cs=2890758146%2C4132027858&amp;os=460803454%2C2981639208&amp;simid=4178422202%2C639240742&amp;adpicid=0&amp;lpn=0&amp;ln=1990&amp;fr=&amp;fmq=1505700744997_R&amp;fm=result&amp;ic=0&amp;s=undefined&amp;se=&amp;sme=&amp;tab=0&amp;width=&amp;height=&amp;face=undefined&amp;ist=&amp;jit=&amp;cg=&amp;bdtype=0&amp;oriquery=&amp;objurl=http%3A%2F%2Fimg.25pp.com%2Fuploadfile%2Fapp%2Ficon%2F20161104%2F1478258654159257.jpg&amp;fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bdcrr_z%26e3Bv54AzdH3FgjofAzdH3Fgjof_bnnal_z%26e3Bip4s%3F_p%3Dp&amp;gsm=0&amp;rpstart=0&amp;rpnum=0</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.UPush.LKG</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
+				<key>title</key>
+				<string>App Title</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
